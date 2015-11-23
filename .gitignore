@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+*.sublime-*
+settings_local.py
+db.sqlite3
